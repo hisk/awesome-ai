@@ -1,7 +1,10 @@
+![](./banner.jpg)
+
 # Awesome AI Resources
 
 A curated list of AI tools, courses, books, and resources for anyone interested in exploring artificial intelligence, machine learning, and deep learning.
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # Table of Contents
 
 - [Tools](#tools)
